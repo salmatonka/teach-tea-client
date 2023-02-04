@@ -1,0 +1,10 @@
+export const ADD_TO_CART = "ADD_TO_CART";
+export const REMOVE_FROM_CART = "REMOVE_FROM_CART";
+export const SERVICE_LOADED = "SERVICE_LOADED";
+export const LOAD_SERVICE = "LOAD_SERVICE";
+export const ADD_SERVICE = "ADD_SERVICE";
+export const REMOVE_SERVICE = "REMOVE_SERVICE";
+
+//FOR FILTERS
+export const TOGGLE_BRAND ="TOGGLE_BRAND";
+export const TOGGLE_STOCK ="TOGGLE_STOCK";
